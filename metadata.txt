@@ -1,0 +1,5 @@
+title=Real Scale WoL
+desc=Wings of Liberty but with all units re-scaled to their canon size, according to the Starcraft Field Manual.
+author=Rhyme
+campaign=WoL
+version=1.004
