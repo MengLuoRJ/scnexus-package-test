@@ -2,10 +2,10 @@
   "name": "Real Scale WoL",
   "description": "Wings of Liberty but with all units re-scaled to their canon size, according to the Starcraft Field Manual.",
   "author": "Rhyme",
-  "version": "1.004",
+  "version": "1.0.4",
   "type": "campaign",
   "campaign": "WOL",
-  "bank_enable": "offcial",
+  "bank_enable": "official",
   "maps": [],
   "mods": [
     {
